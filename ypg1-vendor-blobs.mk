@@ -147,22 +147,3 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/ypg1/proprietary/media/battery_charging_100.qmg:system/media/battery_charging_100.qmg \
     vendor/samsung/ypg1/proprietary/media/chargingwarning.qmg:system/media/chargingwarning.qmg \
     vendor/samsung/ypg1/proprietary/media/Disconnected.qmg:system/media/Disconnected.qmg
-
-PRODUCT_COPY_FILES += \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/cards/aliases.conf:/system/usr/share/alsa/cards/aliases.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/center_lfe.conf:/system/usr/share/alsa/pcm/center_lfe.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/default.conf:/system/usr/share/alsa/pcm/default.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/dmix.conf:/system/usr/share/alsa/pcm/dmix.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/dpl.conf:/system/usr/share/alsa/pcm/dpl.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/dsnoop.conf:/system/usr/share/alsa/pcm/dsnoop.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/front.conf:/system/usr/share/alsa/pcm/front.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/iec958.conf:/system/usr/share/alsa/pcm/iec958.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/modem.conf:/system/usr/share/alsa/pcm/modem.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/rear.conf:/system/usr/share/alsa/pcm/rear.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/side.conf:/system/usr/share/alsa/pcm/side.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/surround40.conf:/system/usr/share/alsa/pcm/surround40.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/surround41.conf:/system/usr/share/alsa/pcm/surround41.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/surround50.conf:/system/usr/share/alsa/pcm/surround50.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/surround51.conf:/system/usr/share/alsa/pcm/surround51.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/pcm/surround71.conf:/system/usr/share/alsa/pcm/surround71.conf \
-    vendor/samsung/venturi_usa/proprietary/usr/share/alsa/alsa.conf:/system/usr/share/alsa/alsa.conf
